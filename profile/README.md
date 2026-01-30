@@ -2,6 +2,8 @@
 
 BrainVISA is a neuroimaging software platform for mass data analysis.
 
-**All the information for users of BrainVISA is on [brainvisa.info](https://brainvisa.info/).**
+* **General information for BrainVISA users: see [brainvisa.info](https://brainvisa.info/) :brain:.** 
 
-Documentation intended for developers is hosted on [dev.brainvisa.info](https://dev.brainvisa.info/).
+* Community support : use to the the [GitHub Discussions](https://github.com/brainvisa/brainvisa.github.io/discussions) 💬.
+
+* Developer documentation: see [dev.brainvisa.info💻](https://dev.brainvisa.info/) 💻.
